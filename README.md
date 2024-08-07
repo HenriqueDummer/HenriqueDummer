@@ -19,6 +19,6 @@
  
 <div> 
  
-  ![snake gif](https://github.com/HenriqueDummer/HenriqueDummer/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/HenriqueDummer/HenriqueDummer/blob/output/github-contribution-grid-snake.avg)
 
 </div>
