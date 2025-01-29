@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Olá 👋 eu sou Henrique Dummer, um futuro desenvolvedor FrontEnd 🚀</div>  
+### <div align="center">Olá 👋 eu sou Henrique Dummer, um desenvolvedor FrontEnd 🚀</div>  
   
 
 - 🚀 Em busca da minha primeira oportunidade no desenvolvimento Front End, onde possa aplicar minhas habilidades e continuar evoluindo  
