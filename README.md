@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Me chamo Henrique Dummer, tenho 19 anos e gosto muito de programar. Em 2020 entrei em contato com a programação pela primeira vez, no curso técnico de Mecatrônica, com a linguagem C++, achei aquilo muito divertido e cativante. Desde então comecei a estudar programação por conta, através de cursos online aprendi HTML, CSS e JavaScript a partir da construção de projetos. Ultimamente venho me especializando em React, também através de um curso online, e me familiarizando com algumas ferramentas populares, como Git, TailWind, Sass, Figma, ReactRouter e Redux.
+Me chamo Henrique Dummer, tenho 20 anos e gosto muito de programar. Em 2020 entrei em contato com a programação pela primeira vez, no curso técnico de Mecatrônica, com a linguagem C, achei aquilo muito divertido e cativante. Desde então comecei a estudar programação por conta, através de cursos online aprendi HTML, CSS e JavaScript a partir da construção de projetos. Ultimamente venho me especializando em React, também através de um curso online, e me familiarizando com algumas ferramentas populares, como Git, TailWind, Sass, Figma, ReactRouter e Redux.
 
 Estou atualmente cursando Tecnologia em Sistemas para Internet no IFSul e procuro uma primeira oportunidade para ingressar no mercado de trabalho como desenvolvedor Front End. Adoro resolver problemas e trabalhar em equipe, estou sempre procurando melhorar e aprender mais sobre essa área que tanto me fascina.
 
