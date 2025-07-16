@@ -16,9 +16,13 @@
 
 ## Sobre mim
 
-Me chamo Henrique Dummer, tenho 20 anos e gosto muito de programar. Em 2020 entrei em contato com a programação pela primeira vez, no curso técnico de Mecatrônica, com a linguagem C, achei aquilo muito divertido e cativante. Desde então comecei a estudar programação por conta, através de cursos online aprendi HTML, CSS e JavaScript a partir da construção de projetos. Ultimamente venho me especializando em React, também através de um curso online, e me familiarizando com algumas ferramentas populares, como Git, TailWind, Sass, Figma, ReactRouter e Redux.
+Me chamo Henrique Dummer, tenho 20 anos e sou estudante de Tecnologia em Sistemas para Internet no IFSul. Sou apaixonado por tecnologia e desenvolvimento web, e venho construindo minha jornada com muita dedicação e curiosidade.
 
-Estou atualmente cursando Tecnologia em Sistemas para Internet no IFSul e procuro uma primeira oportunidade para ingressar no mercado de trabalho como desenvolvedor Front End. Adoro resolver problemas e trabalhar em equipe, estou sempre procurando melhorar e aprender mais sobre essa área que tanto me fascina.
+Meu primeiro contato com a programação foi em 2020, durante o curso técnico em Mecatrônica, onde aprendi a linguagem C. Desde então, me encantei pela área e comecei a estudar por conta própria. Iniciei com a famosa tríade HTML, CSS e JavaScript, e, com o tempo, decidi me aprofundar em React e TypeScript, por meio de cursos na Udemy.
+
+Para consolidar meus conhecimentos, desenvolvi projetos pessoais aplicando conceitos de boas práticas e clean code, sempre buscando escrever códigos mais organizados, legíveis e eficientes. Sou movido por desafios e gosto de transformar problemas em soluções através do código.
+
+Estou em busca da minha primeira oportunidade como desenvolvedor Front End, com o objetivo de crescer profissionalmente, aprender com pessoas experientes e contribuir com projetos reais. Tenho facilidade para trabalhar em equipe, sou proativo, curioso e comprometido com o meu desenvolvimento contínuo.
 
 <br/>  
 
